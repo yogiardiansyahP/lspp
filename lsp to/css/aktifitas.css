@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.aktifitas-link a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+}
+
+.aktifitas-link{
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.section-galeri{
+    width: 80%;
+    margin: auto;
+    margin-top: 10em;
+}
+
+.section-galeri img{
+    height: 40em;
+    width: 68em;
+}
+
+.section-berita{
+    margin-top: 150px;
+    background-color: #242020;
+}
+
+.berita-left img {
+    height: 18em;
+    width: 30em;
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+
+.berita-content {
+    display: flex;
+    margin-left: 100px;
+}
+
+.section-pengumuman{
+    margin-top: 100px;
+}
+
+.pengumuman-left img {
+    height: 18em;
+    width: 30em;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}

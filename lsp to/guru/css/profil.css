@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700;900&display=swap');
+
+.profile-link a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+}
+
+.profile-link{
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+
+.struktur-container{
+    margin-top: 8em;
+}
+.struktur-container img{
+    margin-left: 18em;
+    margin-bottom: 10em;
+    margin-top: 8em;
+}
+
+.struktur-container h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.panduan-container {
+    background-color: #242020;
+}
+
+.panduan-container img{
+    margin-top: 50px;
+    margin-left: 15em;
+}
+
+.tatatertib-container img{
+    margin-top: 50px;
+    margin-left: 15em;
+}
+
+.faq-container{
+    background-color: #242020;
+}
+
+.faq-container img{
+    margin-top: 50px;
+    margin-left: 15em;
+    margin-bottom: 100px;
+}

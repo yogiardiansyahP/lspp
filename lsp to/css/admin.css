@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700;900&display=swap');
+
+
+
+.admin-container{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+
+
+.admin-container p{
+    font-size: 20px;
+}
+
+.admin-content{
+    margin-top: 10em;
+    display: flex;
+    margin-bottom: 10fdxfdxfdxf0px;
+}
+
+.admin-content img{
+    height: 20em;
+}
+
+.admin-kanan {
+    margin-left: 15em;
+}
+
+.admin-bottom{
+    display: flex;
+    margin-top: 250px;
+}
+
+.admin-bottom button{
+    background-color: black;
+    color: #00ECB3;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-right: 100px;
+    width: 80px;
+}

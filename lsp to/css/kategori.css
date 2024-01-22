@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;700;900&display=swap');
+
+.kategori-link a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+}
+
+.kategori-link{
+    margin-top: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.fiksi-container{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+     margin-bottom: 100px;
+     margin-top: 50px;
+      text-align: center;
+}
+
+.fiksi-container h1{
+    margin-bottom: 100px;
+}
+
+.biografi-container{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+     margin-bottom: 100px;
+      text-align: center;
+      margin-top: 50px;
+}
+
+.biografi-container h1{
+    margin-bottom: 100px;
+}
+
+.pelajaran-container{
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    margin-top: 50px;
+     margin-bottom: 100px;
+      text-align: center;
+}
+
+.pelajaran-container h1{
+    margin-bottom: 100px;
+}
+

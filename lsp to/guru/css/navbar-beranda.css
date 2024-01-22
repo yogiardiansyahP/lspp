@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-container{
+    color: white;
+    margin-top: 20px;
+    display: flex;
+    font-size: 15px;
+    margin-left: 20px;
+}
+
+.navbar-menu a{
+    margin: 10px;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-menu{
+    margin-left: 27em;
+}
+
+.beranda-kiri img{
+    height: 20em;
+    margin-left: 20px;
+    border-radius: 20px;
+    width: 30em;
+   }
+
+.beranda-kiri{
+    display: flex;
+    margin-top: 2em;
+}
+
+.beranda-content{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.navbar-container a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
